@@ -1,6 +1,8 @@
 #include <algorithm>
 #include <iostream>
 #include <vector>
+#include <map>
+#include <list>
 using namespace std;
 
 int main()
@@ -9,8 +11,11 @@ int main()
   cin >> n >> target;
   vector<int64_t> A(n);
   for(auto& A_i : A){ cin >> A_i; }
-  vector<int64_t> B(n);
-  B = A;
+  map<int64_t,list<int64_t>> map;
+  for(int64_t i = 0; i < n; ++i)
+  {
+    map[A[i]].push_back(i+1);
+  }
 
   sort(A.begin(), A.end());
   vector<int64_t>::iterator left = A.begin(), right = prev(A.end());
@@ -21,20 +26,20 @@ int main()
     {
       left++;
     }
-    else if(sum > target )
+    else if(sum > target)
     {
       right--;
     }
     else
     {
-      for(int i = 0; i < n; ++i)
+      if(*left == *right)
       {
-        if(*left == B[i]){ cout << i+1 << " "; }
+        list<int64_t>::iterator it = map[*left].begin(); 
+        cout << *it << " " << *(++it); 
       }
-
-      for(int i = n-1; i >= 0; --i)
+      else
       {
-        if(*right == B[i]){ cout << i+1;  }
+        cout << *map[*left].begin() << " " << *map[*right].begin();
       }
       return 0;
     }
