@@ -43,31 +43,53 @@ int main()
   sort(A.begin(), A.end());
 
   vector<int64_t>::iterator left = A.begin(); 
-  vector<int64_t>::iterator right = prev(prev(A.end()));
+  vector<int64_t>::iterator right = prev(A.end());
 
   pair<int64_t, int64_t> p;
   for(int64_t i = n-1; i >= 2; --i)
   {
     right--;
     p = two_sum(left, right, target - A[i]);
-    if(p == make_pair<int64_t, int64_t>(0,0)){
+    if(p ==  make_pair<int64_t, int64_t>(0,0)){
       continue;
     }
 
     int64_t num1 = p.first;
     int64_t num2 = p.second;
-    if(p.first == p.second){
-      cout << *map[p.first].begin() << " " << *++map[p.first].begin() << " " << *map[A[i]].begin();
-      return 0;
-    }else if(p.first == A[i])
+    int64_t num3 = A[i];
+    if(num1 == num2)
     {
-      cout << *map[p.first].begin() << " " << *++map[p.first].begin()  << " " << *map[A[i]].begin();
+      list<int64_t>::iterator it = map[num1].begin();
+      if(num2 == num3) // O O O 
+      {
+        cout << *it++ << " " << *it++ << " " << *it;
+      }
+      else // O O X
+      {
+        cout << *it++ << " " << *it << " " << *map[num3].begin();
+      }
       return 0;
-    }else if(p.second == A[i]){
-      cout << *map[p.first].begin() << " " << *map[p.second].begin()  << " " << *map[A[i]].begin();
+    }
+    else // O X 
+    {
+      if(num2 == num3) // O X X 
+      {
+        list<int64_t>::iterator it = map[num2].begin();
+        cout << *map[num1].begin() << " " << *it++ << " " << *it;
+      }
+      else
+      {
+        if(num1 == num3) // O X O
+        {
+          list<int64_t>::iterator it = map[num1].begin();
+          cout << *it++ << " " << *map[num3].begin() << " " << *it;
+        }
+        else // O X *
+        {
+          cout << *map[num1].begin() << " " << *map[num2].begin() << " " << *map[num3].begin();
+        }
+      }
       return 0;
-    }else{
-
     }
   }
   
