@@ -1,4 +1,4 @@
-[1. Search](https://www.hackerrank.com/contests/110-spring-ids-lab-feb-21/challenges/ids-search)  [Feb 21]
+[1. Search](https://www.hackerrank.com/contests/110-spring-ids-lab-feb-21/challenges/ids-search)[Feb 21]  
 [2. Inversion Pairs](https://www.hackerrank.com/contests/110-spring-ids-lab-feb-21/challenges/ids-search)  
 [3. Rich & Poor](https://www.hackerrank.com/contests/110-spring-ids-lab-mar-07/challenges/110-spring-ids-lab-rich-poor)  
 [4. Another Inversion Problem](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/yet-another-inversion-problem)  
