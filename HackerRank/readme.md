@@ -4,6 +4,6 @@
 [4. Another Inversion Problem](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/yet-another-inversion-problem)  
 [5. Rail Problem](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/rail-problem)  
 [6. Another Rails Problem](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/yet-another-rails-problem)  
-[7. Cat on Keyboard](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/cat-on-keyboard)  
-[8. Kth Smallest Element](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/110-spring-ids-hw1-kth-smallest-element)
+[7. Cat on Keyboard](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/cat-on-keyboard)
+[8. Kth Smallest Element](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/110-spring-ids-hw1-kth-smallest-element)  
 [9. Tennis Ball Barrels](https://www.hackerrank.com/contests/110-spring-ids-lab-mar-14/challenges)  
