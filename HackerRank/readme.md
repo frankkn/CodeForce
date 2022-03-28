@@ -1,9 +1,9 @@
 [1. Search](https://www.hackerrank.com/contests/110-spring-ids-lab-feb-21/challenges/ids-search) [Feb 21]  
-[2. Inversion Pairs](https://www.hackerrank.com/contests/110-spring-ids-lab-feb-21/challenges/ids-search)  
-[3. Rich & Poor](https://www.hackerrank.com/contests/110-spring-ids-lab-mar-07/challenges/110-spring-ids-lab-rich-poor)  
-[4. Another Inversion Problem](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/yet-another-inversion-problem)  
-[5. Rail Problem](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/rail-problem)  
-[6. Another Rails Problem](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/yet-another-rails-problem)  
-[7. Cat on Keyboard](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/cat-on-keyboard)  
-[8. Kth Smallest Element](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/110-spring-ids-hw1-kth-smallest-element)  
-[9. Tennis Ball Barrels](https://www.hackerrank.com/contests/110-spring-ids-lab-mar-14/challenges)  
+[2. Inversion Pairs](https://www.hackerrank.com/contests/110-spring-ids-lab-feb-21/challenges/ids-search) [Feb 28]  
+[3. Rich & Poor](https://www.hackerrank.com/contests/110-spring-ids-lab-mar-07/challenges/110-spring-ids-lab-rich-poor) [Mar 07]  
+[4. Another Inversion Problem](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/yet-another-inversion-problem) [HW1]  
+[5. Rail Problem](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/rail-problem) [HW1]  
+[6. Another Rails Problem](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/yet-another-rails-problem) [HW1]  
+[7. Cat on Keyboard](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/cat-on-keyboard) [HW1]  
+[8. Kth Smallest Element](https://www.hackerrank.com/contests/110-spring-ids-homework-1/challenges/110-spring-ids-hw1-kth-smallest-element) [HW1]  
+[9. Tennis Ball Barrels](https://www.hackerrank.com/contests/110-spring-ids-lab-mar-14/challenges) [Mar 14]  
