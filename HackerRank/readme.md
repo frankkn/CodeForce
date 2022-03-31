@@ -11,3 +11,8 @@
 [11. Yet Another Beautiful Merged Sequence](https://www.hackerrank.com/contests/110-spring-ids-exam-1-in-class/challenges/yet-another-beautiful-merged-sequence) [Exam1 Mar 28]  
 [12. Dostdo](https://www.hackerrank.com/contests/110-spring-ids-exam-1-in-class/challenges/110-spring-ids-exam-dostdo) [Exam1 Mar 28]  
 [13. One More Rail Problem](https://www.hackerrank.com/contests/110-spring-ids-exam-1-in-class/challenges/110-spring-ids-exam-one-more-rail-problem) [Exam1 Mar 28]  
+[14. Annoying Queue](https://www.hackerrank.com/contests/110-spring-ids-exam-exam-1-at-home/challenges/110-spring-ids-exam-home-annoying-queue) [Exam1 home]  
+[15. Brackets Matching](https://www.hackerrank.com/contests/110-spring-ids-exam-exam-1-at-home/challenges/110-spring-ids-exam-home-brackets-matching) [Exam1 home]  
+[16. Swing](https://www.hackerrank.com/contests/110-spring-ids-exam-exam-1-at-home/challenges/110-spring-ids-exam-home-swing) [Exam1 home]  
+[17. The K-th Minimum Sum](https://www.hackerrank.com/contests/110-spring-ids-exam-exam-1-at-home/challenges/110-spring-ids-exam-home-the-k-th-minimum-sum) [Exam1 home]  
+[18. Ugly Number](https://www.hackerrank.com/contests/110-spring-ids-exam-exam-1-at-home/challenges/110-spring-ids-exam-home-ugly-number) [Exam1 home]  
