@@ -16,3 +16,4 @@
 [16. Swing](https://www.hackerrank.com/contests/110-spring-ids-exam-exam-1-at-home/challenges/110-spring-ids-exam-home-swing) [Exam1 home]  
 [17. The K-th Minimum Sum](https://www.hackerrank.com/contests/110-spring-ids-exam-exam-1-at-home/challenges/110-spring-ids-exam-home-the-k-th-minimum-sum) [Exam1 home]  
 [18. Ugly Number](https://www.hackerrank.com/contests/110-spring-ids-exam-exam-1-at-home/challenges/110-spring-ids-exam-home-ugly-number) [Exam1 home]  
+[19. Connected Components](https://www.hackerrank.com/contests/110-spring-ids-lab-apr-11/challenges/110-spring-ids-lab-connected-components) [Apr 11]  
