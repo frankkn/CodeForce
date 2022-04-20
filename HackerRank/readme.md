@@ -17,3 +17,4 @@
 [17. The K-th Minimum Sum](https://www.hackerrank.com/110-spring-ids-exam-exam-1-at-home) [Exam1 home]  
 [18. Ugly Number](https://www.hackerrank.com/110-spring-ids-exam-exam-1-at-home) [Exam1 home]  
 [19. Connected Components](https://www.hackerrank.com/110-spring-ids-lab-apr-11) [Apr 11]  
+[20. Binary Tree Traversal](https://www.hackerrank.com/110-spring-ids-lab-apr-18) [Apr 18]  
