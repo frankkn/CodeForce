@@ -23,6 +23,5 @@
 [23. BST reconstruction](https://www.hackerrank.com/110-spring-ids-homework-2) [HW2]  
 [24. Calculator](https://www.hackerrank.com/110-spring-ids-homework-2) [HW2]  
 [25. Spreadsheet](https://www.hackerrank.com/110-spring-ids-homework-2) [HW2]  
-[26. Chocolate Box](https://www.hackerrank.com/110-spring-ids-homework-2) [HW2]  
-[27. Tree](https://www.hackerrank.com/110-spring-ids-homework-2) [HW2]  
-[28. Directed Acyclic Graph](https://www.hackerrank.com/110-spring-ids-lab-apr-25) [Apr 25]  
+[26. Tree](https://www.hackerrank.com/110-spring-ids-homework-2) [HW2]  
+[27. Directed Acyclic Graph](https://www.hackerrank.com/110-spring-ids-lab-apr-25) [Apr 25]  
