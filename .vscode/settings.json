@@ -4,5 +4,6 @@
     "iostream": "cpp",
     "vector": "cpp",
     "deque": "cpp"
-  }
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
 }
