@@ -9,8 +9,8 @@ int row, col;
 pair<int,int> A,B;
 vector<string> maze;
 vector<vector<int>> dist;
-vector<int> dx = {1,0,-1,0};//up right down left
-vector<int> dy = {0,1,0,-1};//up right down left
+vector<int> dx = {1,0,-1,0};
+vector<int> dy = {0,1,0,-1};
 void BFS(pair<int,int> A);
 
 int main() {
