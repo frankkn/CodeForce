@@ -43,22 +43,13 @@ int Calculate(string& postfix, vector<int>& values){
     for(auto c:postfix){
         if(c >= 'A' && c <= 'E'){
             s.push(values[c - 'A']);
-        }else if(c == '+'){
-            int right = s.top(); s.pop();
-            int left = s.top(); s.pop();
-            s.push(left + right);
-        }else if(c == '-'){
-            int right = s.top(); s.pop();
-            int left = s.top(); s.pop();
-            s.push(left - right);
-        }else if(c == '*'){
-            int right = s.top(); s.pop();
-            int left = s.top(); s.pop();
-            s.push(left * right);
         }else{
             int right = s.top(); s.pop();
             int left = s.top(); s.pop();
-            s.push(left / right);
+            if(c == '+') { s.push(left+right); }
+            else if(c == '-') { s.push(left-right); }
+            else if(c == '*') { s.push(left*right); }
+            else { s.push(left/right); }
         }
     }
     return s.top();
