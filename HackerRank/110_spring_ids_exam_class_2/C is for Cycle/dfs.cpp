@@ -33,7 +33,6 @@ void dfs(vector<vector<int>>& graph, vector<int>& color, vector<int>& parents, i
             continue;
         }
         dfs(graph, color, parents, start, to, path, flag);
-        
     }
     color[start] = 2;
 }
