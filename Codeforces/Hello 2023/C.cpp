@@ -14,17 +14,19 @@ ll check(vector<ll>& v, ll f){
   for(ll i = f+1; i < v.size(); ++i){
     sum1 += v[i];
     PQ1.push(v[i]);
-    while(sum1 < 0 && (!PQ1.empty())){
-      sum1 -= (PQ1.top()*2);
+    while(sum1 < 0 && !PQ1.empty()){
+      ll x = PQ1.top();
+      sum1 += (-1*x*2);
       ++op;
       PQ1.pop();
     }
   } 
-  for(ll i = f; i >= 0; --i){
+  for(ll i = f; i > 0; --i){ // not >= 0!!!!!!!!!!
     sum2 += v[i];
     PQ2.push(v[i]);
-    while(sum2 > 0 && (!PQ2.empty())){
-      sum2 -= (PQ2.top()*2);
+    while(sum2 > 0 && !PQ2.empty()){
+      ll x = PQ2.top();
+      sum2 += (-1*x*2);
       ++op;
       PQ2.pop();
     }
