@@ -27,6 +27,6 @@
 [27. Directed Acyclic Graph](https://www.hackerrank.com/110-spring-ids-lab-apr-25) [Apr 25]  
 [28. Binary Search Tree](https://www.hackerrank.com/110-spring-ids-lab-may-02) [May 2]  
 [29. C is for Cycle](https://www.hackerrank.com/110-spring-ids-exam-2-in-class) [Exam2 May 9]  
-[30. Binary Tree Reconstruction](https://www.hackerrank.com/110-spring-ids-exam-2-in-class) [Exam2 May 9] 
+[30. Binary Tree Reconstruction](https://www.hackerrank.com/110-spring-ids-exam-2-in-class)   [Exam2 May 9] 
 [31. Uniqueness](https://www.hackerrank.com/110-spring-ids-lab-may-16) [May 16]  
 [32. Number in Number](https://www.hackerrank.com/110-spring-ids-lab-may-23) [May 23]  
