@@ -11,10 +11,10 @@ int main(){
   cin.tie(NULL);
   cout.tie(NULL);
 
-  ll T;
+  int T;
   cin >> T;
   while(T--){
-    ll n;
+    int n;
     cin >> n;
   }
   return 0;
